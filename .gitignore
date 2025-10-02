@@ -1,0 +1,4 @@
+.env
+mcp.json
+weatherAPI2.py
+__pycache__/weatherAPI.cpython-312.pyc
