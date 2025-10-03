@@ -1,4 +1,12 @@
+.gitignore
 .env
 mcp.json
 weatherAPI2.py
 __pycache__/weatherAPI.cpython-312.pyc
+.venv/
+.sickandtiredofthis/
+__pycache__/mcpserver.cpython-312.pyc
+.gitignore
+__pycache__/mcpserver.cpython-313.pyc
+__pycache__/weatherMCP.cpython-312.pyc
+__pycache__/weatherMCP.cpython-313.pyc
